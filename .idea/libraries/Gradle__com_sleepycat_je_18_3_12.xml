@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sleepycat:je:18.3.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sleepycat/je/18.3.12/a41b84d1bf41c5d24417a8045c6ee88fde1ece9/je-18.3.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sleepycat/je/18.3.12/f80c7396f99ad93d236d5162dae83cc709ca6a0e/je-18.3.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sleepycat/je/18.3.12/fad7a4d8ee42b44f9967570b4e3b200db52328fe/je-18.3.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
